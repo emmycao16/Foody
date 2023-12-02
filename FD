@@ -1,7 +1,4 @@
-FoodName: "Pho - Vietnamese Noodle Soup"
-FoodDescription: "If you’re wondering “What is Pho?” then you’re probably also wondering “Why is she so bonkers over it??? I don’t blame you. It looks like a relatively harmless bowl of beef noodle soup. That is, until you take your first slurp. The Pho soup broth is everything. It’s light yet full of flavour, deceptively beefy, savoury, complex, has the tiniest hint of richness and is filled with beautiful spices like cinnamon."
-CookTime: "6 to 10 hours"
-Calories: "350 - 450"
-SpiceLevel: "MILD"
-FoodImage: "pho.jpeg"
-FoodWebsite: "https://www.recipetineats.com/vietnamese-pho-recipe/"
+{
+  "Foody":
+  [
+    {"FoodName": "Pho - Vietnamese Noodle Soup","FoodDescription": "If you’re wondering “What is Pho?” then you’re probably also wondering “Why is she so bonkers over it??? I don’t blame you. It looks like a relatively harmless bowl of beef noodle soup. That is, until you take your first slurp. The Pho soup broth is everything. It’s light yet full of flavour, deceptively beefy, savoury, complex, has the tiniest hint of richness and is filled with beautiful spices like cinnamon.", "CookTime" : "6 to 10 hours", "Calories:" "350 - 450", "SpiceLevel": "MILD", "FoodImage": "pho.jpeg","FoodWebsite": "https://www.recipetineats.com/vietnamese-pho-recipe/"
